@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @karelvanoordt
-- 👀 I’m interested in back-end development
+- I'm a student at @microverseinc
+- 👀 I’m interested in front and back-end development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on entry level projects  
 - 📫 Reach me @ vanoordtkarel@gmail.com
