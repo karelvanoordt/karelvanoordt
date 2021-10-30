@@ -1,11 +1,39 @@
 - 👋 Hi, I’m @karelvanoordt
-- 💻 I'm a student at @microverseinc
-- 👀 I’m interested in front and back-end development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on entry level projects  
-- 📫 Reach me @ vanoordtkarel@gmail.com
 
-<!---
-karelvanoordt/karelvanoordt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+
+    let career = journalist;
+
+    function lifeSwitch() {
+        let changeCareer = () => {
+            career = developer;
+        }
+    }
+
+```
+
+As you can see, I turned my life 180deg making a switch to Software Development. Which I am glad. So now my life looks like this:
+
+
+```javascript
+    while (alive) {
+        code;
+        coffee;
+        read;
+        baseball;
+        F1;
+        sleep;
+    }
+```
+
+- I am a versatile professional, always looking to learn new things, tools, languages and technologies.
+- Currently looking for an entry level job at tech industry, ready to break into it.
+- Also looking to collaborate on open source projects. Any amazing idea will be received with a smile.
+
+Reach me at vanoordtkarel@gmail.com
+
+
+[![Karel's GitHub stats](https://github-readme-stats.vercel.app/api?username=karelvanoordt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
