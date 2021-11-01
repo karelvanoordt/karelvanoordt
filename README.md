@@ -19,9 +19,10 @@ As you can see, I turned my life 180deg making a switch to Software Development.
     while (alive) {
         code;
         coffee;
+        cycling;
         read;
         baseball;
-        F1;
+        f1;
         sleep;
     }
 ```
