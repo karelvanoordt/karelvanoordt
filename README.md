@@ -36,5 +36,8 @@ Reach me at vanoordtkarel@gmail.com
 
 [![Karel's GitHub stats](https://github-readme-stats.vercel.app/api?username=karelvanoordt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karelvanoordt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
