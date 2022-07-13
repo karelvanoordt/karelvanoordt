@@ -1,30 +1,30 @@
  👋 Hi, I’m @karelvanoordt
 
-```javascript
+```ruby
 
-    let career = journalist;
+    career = journalist;
 
-    function lifeSwitch() {
-        let changeCareer = () => {
-            career = developer;
-        }
-    }
+    def lifeSwitch(new_career)
+        career = new_career
+    end
+    
+    lifeSwitch(programmer)
 
 ```
 
 As you can see, I turned my life 180deg making a switch to Software Development. Which I am glad. So now my life looks like this:
 
 
-```javascript
-    while (alive) {
-        code;
-        coffee;
-        cycling;
-        read;
-        baseball;
-        f1;
-        sleep;
-    }
+```ruby
+    while karel.is_alive do
+        code
+        coffee
+        cycle
+        read
+        baseball
+        f1
+        sleep
+    end
 ```
 
 - I am a versatile professional, always looking to learn new things, tools, languages and technologies.
