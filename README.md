@@ -28,7 +28,6 @@ As you can see, I turned my life 180deg making a switch to Software Development.
 ```
 
 - I am a versatile professional, always looking to learn new things, tools, languages and technologies.
-- Currently looking for an entry level job at tech industry, ready to break into it.
 - Also looking to collaborate on open source projects. Any amazing idea will be received with a smile.
 
 Reach me at vanoordtkarel@gmail.com
